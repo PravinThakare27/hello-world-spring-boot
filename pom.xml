@@ -25,6 +25,7 @@
         </dependency>
     </dependencies>
     <build>
+        <finalName>hello-world-spring-boot</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
